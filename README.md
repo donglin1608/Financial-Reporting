@@ -25,6 +25,8 @@ The graph and table shown in the image represent a financial analysis over sever
 3. **Interactive Elements (Left and Bottom)**:
    - **Buttons**: Provide options to view specific metrics such as average revenue, average overhead, and maximum overhead.
    - **Search Box**: Allows users to ask specific questions about the data for more detailed insights.
+![image](https://github.com/user-attachments/assets/723d41fd-977f-4248-8aac-d60ac7b392d8)
+
 
 ### Main Idea:
 The main idea of this graph and table is to provide a clear financial overview over several years, highlighting key metrics such as cost of goods, overhead costs, and revenue, along with their growth rates. The visualization helps in understanding the trends and comparisons between these financial aspects year by year, making it easier to identify patterns or anomalies in the financial data.
